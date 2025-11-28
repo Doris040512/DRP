@@ -23,11 +23,6 @@ Robustness Value (RV)
 
 Partial R²
 
-📂 Repository Structure
-📁 sensitivity-analysis-causal-inference
-│── Report.pdf          # Final written report (full explanation)
-│── Presentation.pdf    # Slides for presentation
-│── README.md           # Project description
 
 🧠 Key Concepts
 1. Correlation vs. Causation
@@ -63,6 +58,7 @@ Partial R²: how strongly a confounder relates to both treatment and outcome
 These tools help determine whether the causal claim is solid or fragile.
 
 📑 Files Included
+
 🔹 Final Report
 
 A written explanation of all theoretical concepts and the importance of sensitivity analysis in observational studies.
